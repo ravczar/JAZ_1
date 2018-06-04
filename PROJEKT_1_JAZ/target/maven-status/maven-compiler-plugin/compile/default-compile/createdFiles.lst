@@ -1,0 +1,8 @@
+servlet\Form_Servlet.class
+calculator\DataToCoutnInstallments.class
+calculator\InstallmentsOftheBankCredit.class
+calculator\Installment.class
+servlet\CreditSchedule_Servlet.class
+enums\KindOfReport.class
+enums\KindOfInstallment.class
+calculator\InstallmentCalc.class
